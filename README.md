@@ -1,0 +1,2 @@
+# pizzaOtomasyonu
+python tkinter uygulaması
